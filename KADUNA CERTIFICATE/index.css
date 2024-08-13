@@ -1,0 +1,186 @@
+body {
+    width: 98%;
+    background-image: url(assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: italic;
+}
+
+/*SECTION FIRST*/
+.first h4 {
+    text-align: center;
+    color: rgb(82, 160, 82);
+    font-size: 17px;
+}
+
+.first p {
+    text-align: center;
+    padding-bottom: 36px;
+
+}
+
+.first h4, p {
+    padding: 3px;
+    margin: 0px;
+}
+
+.first h4 {
+    margin-top: 23%;
+}
+/*SECTION FIRST ENDS*/
+
+/*SECTION SECOND*/
+.second h1 {
+    text-align: center;
+    font-size: 55px;
+    color: rgb(2, 58, 75);
+}
+
+.second h3 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(2, 58, 75);
+}
+
+.second h1, h3 {
+    padding: 3px;
+    margin: 0px;
+}
+
+.second p {
+    text-align: center;
+    color: rgb(47, 109, 128);
+    padding: 0px;
+    margin: 0px;
+}
+/*SECTION SECOND ENDS*/
+
+/*SECTION THIRD*/
+
+.third h5, img {
+    padding: 0px;
+    margin: 0px;
+}
+
+.third h5 {
+    text-align: center;
+    color: #333333;
+    margin-top: 70px;
+}
+
+.third img {
+    margin-left: 15%;
+    width: 70%;
+}
+/*SECTION THIRD END*/
+
+/*PARAGRAPH SECTION*/
+.paragraph p {
+    text-align: center;
+    font-size: 15px;
+}
+/*PARAGRAPH SECTION END*/
+
+/*SECTION FOURTH*/
+.fourth h5, img {
+    padding: 0px;
+    margin: 0px;
+}
+
+.fourth h5 {
+    text-align: center;
+    color: #333333;
+    margin-top: 20px;
+}
+
+.fourth img {
+    margin-left: 15%;
+    width: 70%;
+}
+/*SECTION FOURTH END*/
+
+/*SECTION FIFTH*/
+.fifth h5, img {
+    padding: 0px;
+    margin: 0px;
+}
+
+.fifth h5 {
+    text-align: center;
+    color: #333333;
+    padding-top: 20px;
+}
+
+.fifth img {
+    margin-left: 15%;
+    width: 70%;
+}
+/*SECTION FIFTH END*/
+
+
+/*SECTION SIXTH*/
+.para p {
+    text-align: left;
+    font-size: 15px;
+}
+.para {
+    padding-bottom: 35px;
+}
+.para p, img {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 70px;
+    
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.para {
+    width: 98%;
+    margin-left: 35px;
+    margin-right: 65px;
+}
+.para img {
+    width: 40%;
+}
+
+/*PARA-2 SECTION*/
+.para-2-col p {
+    text-align: left;
+    font-size: 15px;
+    padding-top: 98px;
+}
+
+.para-2-col p, img {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 80px;
+    
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-left: 20px;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-left: 30px;
+}
+
+
+.para-2-col img {
+    width: 30%;
+}
+
+.para-2-col {
+padding-top: 10px;
+}
